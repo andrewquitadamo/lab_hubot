@@ -22,7 +22,8 @@
     "hubot-github-event-announcer": "0.10.0",
     "hubot-trello": "*",
     "hubot-travisci-notifier": ">=1.0.1",
-    "hubot-cute-me": ">=1.0.0"
+    "hubot-cute-me": ">=1.0.0",
+    "hubot-alert": ">=1.2.0"
   },
   "engines": {
     "node": "0.10.x"

@@ -12,5 +12,6 @@
   "hubot-github-event-announcer",
   "hubot-trello",
   "hubot-travisci-notifier",
-  "hubot-cute-me"
+  "hubot-cute-me",
+  "hubot-alert"
 ]
