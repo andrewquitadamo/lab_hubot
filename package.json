@@ -20,7 +20,9 @@
     "hubot-maps": "0.0.2",
     "hubot-slack": "~3.3.0",
     "hubot-github-event-announcer": "0.10.0",
-    "hubot-trello": "*"
+    "hubot-trello": "*",
+    "hubot-travisci-notifier": ">=1.0.1",
+    "hubot-cute-me": ">=1.0.0"
   },
   "engines": {
     "node": "0.10.x"
