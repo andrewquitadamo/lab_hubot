@@ -8,5 +8,9 @@
   "hubot-redis-brain",
   "hubot-rules",
   "hubot-shipit",
-  "hubot-youtube"
+  "hubot-youtube",
+  "hubot-github-event-announcer",
+  "hubot-travisci-notifier",
+  "hubot-cute-me",
+  "hubot-alert"
 ]
